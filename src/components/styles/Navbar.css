@@ -1,0 +1,25 @@
+nav {
+    width: 100%
+}
+#login_btn {
+    background-color: black;
+    color: white;
+    font-size: "15px";
+    margin-left: "26%";
+}
+
+#login_btn:hover {
+    background-color: white;
+    color: black;
+}
+
+#register_btn {
+    background-color: white;
+    color: black;
+}
+
+#register_btn:hover {
+    background-color: black;
+    border-color: white;
+    color: white;
+}
